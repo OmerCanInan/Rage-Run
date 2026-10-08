@@ -19,8 +19,8 @@ public class splashScreen : MonoBehaviour
 
     private IEnumerator Start()
     {
-        // Ayarlar menüsünü (SettingsMenu.cs) ekledikten sonra bu satırın başındaki // işaretini kaldır:
-        // SettingsMenu.ApplySavedSettings();
+        
+        settingsMenu.ApplySavedSettings();
 
         logoGroup.alpha = 0f;
 
