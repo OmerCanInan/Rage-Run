@@ -22,8 +22,8 @@ public static class localizationManager
     private static List<string> languages;                               // CSV'deki sırayla dil kodları
     private static string currentLanguage;
 
-    public static string CurrentLanguage { get { EnsureLoaded(); return currentLanguage; } }
-    public static IReadOnlyList<string> Languages { get { EnsureLoaded(); return languages; } }
+    public static string CurrentLanguage { get { EnsureLoaded(); return currentLanguage; } }   // Seçili dilin kodu (örn. "tr", "en") yüklenmemişse kontrol edilir
+    public static IReadOnlyList<string> Languages { get { EnsureLoaded(); return languages; } } // CSV'deki sırayla dil kodları yüklenmemişse kontrol edilir
 
     // Editörde her Play'e basışta sıfırdan başlasın (eski veriler kalmasın)
     [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.SubsystemRegistration)]

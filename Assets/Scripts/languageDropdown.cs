@@ -2,7 +2,6 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
-// Ayarlardaki dil seçim menüsü. TMP Dropdown objesine eklemen yeterli;
 // seçenekleri CSV'deki dillerden kendisi oluşturur, Inspector'da bağlantı gerekmez.
 [RequireComponent(typeof(TMP_Dropdown))]
 public class languageDropdown : MonoBehaviour
