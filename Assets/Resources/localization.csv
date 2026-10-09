@@ -20,3 +20,12 @@ pause_title,Duraklatıldı,Paused,Pausa,Pausiert,Pause,Пауза,Pausado
 pause_resume,Devam Et,Resume,Continuar,Fortsetzen,Reprendre,Продолжить,Continuar
 pause_restart,Yeniden Başla,Restart,Reiniciar,Neustart,Recommencer,Заново,Reiniciar
 pause_main_menu,Ana Menü,Main Menu,Menú principal,Hauptmenü,Menu principal,Главное меню,Menu principal
+# Kontroller,,,,,,,
+menu_controls,Kontroller,Controls,Controles,Steuerung,Commandes,Управление,Controles
+controls_title,Kontroller,Controls,Controles,Steuerung,Commandes,Управление,Controles
+action_move_left,Sola Git,Move Left,Izquierda,Links,Gauche,Влево,Esquerda
+action_move_right,Sağa Git,Move Right,Derecha,Rechts,Droite,Вправо,Direita
+action_jump,Zıpla,Jump,Saltar,Springen,Sauter,Прыжок,Pular
+action_restart,Yeniden Başlat,Restart Level,Reiniciar nivel,Level neu starten,Recommencer le niveau,Перезапуск уровня,Reiniciar fase
+controls_press_key,Bir tuşa bas...,Press a key...,Pulsa una tecla...,Taste drücken...,Appuie sur une touche...,Нажмите клавишу...,Pressione uma tecla...
+controls_reset,Varsayılana Dön,Reset to Default,Restablecer,Zurücksetzen,Réinitialiser,Сбросить,Restaurar padrão
