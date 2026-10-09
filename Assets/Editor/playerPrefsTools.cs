@@ -18,6 +18,10 @@ public static class playerPrefsTools
             ? (PlayerPrefs.GetInt("Fullscreen") == 1 ? "Açık" : "Kapalı")
             : "kayıt yok (varsayılan Açık kullanılır)";
 
+        string language = PlayerPrefs.HasKey("Language")
+           ? PlayerPrefs.GetString("Language")
+           : "kayıt yok (bilgisayarın dili kullanılır)";
+
         Debug.Log($"[PlayerPrefs] Ses: {volume}  |  Tam ekran: {fullscreen}");
     }
 

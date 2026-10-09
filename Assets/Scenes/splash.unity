@@ -470,7 +470,7 @@ MonoBehaviour:
   fadeInTime: 3
   holdTime: 1.5
   fadeOutTime: 0.6
-  nextScene: MainMenu
+  nextScene: mainMenu
 --- !u!4 &1111637298
 Transform:
   m_ObjectHideFlags: 0
