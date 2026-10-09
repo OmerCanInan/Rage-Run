@@ -1,0 +1,22 @@
+﻿key,tr,en,es,de,fr,ru,pt
+# Dil seçim menüsünde görünen isim - her dil kendi adıyla yazılır,,,,,,,
+language_name,Türkçe,English,Español,Deutsch,Français,Русский,Português
+# Ana menü,,,,,,,
+menu_play,Oyna,Play,Jugar,Spielen,Jouer,Играть,Jogar
+menu_levels,Bölümler,Levels,Niveles,Level,Niveaux,Уровни,Fases
+menu_settings,Ayarlar,Settings,Ajustes,Einstellungen,Paramètres,Настройки,Configurações
+menu_exit,Çıkış,Exit,Salir,Beenden,Quitter,Выход,Sair
+# Ortak,,,,,,,
+common_back,Geri,Back,Volver,Zurück,Retour,Назад,Voltar
+# Bölüm seçimi,,,,,,,
+levels_title,Bölümler,Levels,Niveles,Level,Niveaux,Уровни,Fases
+# Ayarlar,,,,,,,
+settings_title,Ayarlar,Settings,Ajustes,Einstellungen,Paramètres,Настройки,Configurações
+settings_volume,Ses,Volume,Volumen,Lautstärke,Volume,Громкость,Volume
+settings_fullscreen,Tam Ekran,Fullscreen,Pantalla completa,Vollbild,Plein écran,Полноэкранный режим,Tela cheia
+settings_language,Dil,Language,Idioma,Sprache,Langue,Язык,Idioma
+# Duraklatma menüsü,,,,,,,
+pause_title,Duraklatıldı,Paused,Pausa,Pausiert,Pause,Пауза,Pausado
+pause_resume,Devam Et,Resume,Continuar,Fortsetzen,Reprendre,Продолжить,Continuar
+pause_restart,Yeniden Başla,Restart,Reiniciar,Neustart,Recommencer,Заново,Reiniciar
+pause_main_menu,Ana Menü,Main Menu,Menú principal,Hauptmenü,Menu principal,Главное меню,Menu principal
